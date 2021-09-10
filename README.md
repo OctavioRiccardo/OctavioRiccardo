@@ -4,7 +4,7 @@
    <h3 align="center">¡Hey 👋! Soy Batvizz 👨🏻‍💻</h3>
 </p>
 
-university student, I like the world of programming, multimedia content, video games.
+University student,I like the world of programming, multimedia content, video games.
 
 I'm interested in learning more about React Js,Web design, Python and JavaScript.
 
