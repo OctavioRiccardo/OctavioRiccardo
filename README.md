@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center rounded" width="200" src="https://avatars.githubusercontent.com/u/66325928?v=4" />
+   <!--<img align="center rounded" width="200" src="https://avatars.githubusercontent.com/u/66325928?v=4" />-->
    <h3 align="center">¡Hey 👋! Soy Octavio 👨🏻‍💻</h3>
 </p>
 
