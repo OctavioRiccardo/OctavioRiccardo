@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Octavio!</h1>
+<h1 align="center">hi 👋,i'm octavio!</h1>
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
 
 
