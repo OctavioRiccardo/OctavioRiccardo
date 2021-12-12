@@ -2,7 +2,7 @@
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
 
 
-- 🔭 I'm currently work as Senior Software Engineer **at Clevertech**
+- 🔭 I'm Currently studying Web University Technique **at UNSL **
 
 - 🌱 I'm always learning and currently curious about **JavaScript ,React JS,React Native,Python**
 
