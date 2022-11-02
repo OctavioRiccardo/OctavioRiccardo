@@ -31,7 +31,6 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/></a>
-
   <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"/></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap"/></a>
   <a href="https://beta.es.reactjs.org/"><img src="https://skillicons.dev/icons?i=react"/></a>
@@ -42,8 +41,8 @@
 </p>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=bear&show_icons=true&count_private=true)
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Batvizz)](https://github.com/Batvizz/Vinculaciones-Frontend)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batvizz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batvizz&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
