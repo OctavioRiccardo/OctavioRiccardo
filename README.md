@@ -15,20 +15,40 @@
 
 - 🔭 I'm Currently studying Web University Technique **UNSL**
 - 🌱 I'm always learning and currently curious about **JavaScript,React JS,React Native,Python,Java**
-- <a href="https://linkedin.com/in/othneildrew" rel="nofollow">
-    <img        src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://www.linkedin.com/in/octavio-riccardo/" style="max-width: 100%;">
-</a>
+- </a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+</a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" data-canonical src="https://www.linkedin.com/in/octavio-riccardo/" style="max-width:100%;"></a>
+
+</a><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+</a><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="LinkedIn" data-canonical src="https://www.linkedin.com/in/octavio-riccardo/" style="max-width:100%;"></a>
+</a><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+</a><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+</a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+</a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://devdocs.io/c/" target="_blank"><img src="https://skillicons.dev/icons?i=c"/></a>
-  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts"/></a>
+  <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+  <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+ 
+ 
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
