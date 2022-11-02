@@ -1,6 +1,7 @@
 <h1 align="center">Hi👋,I'm octavio!</h1>
 
-![4ddd3d4ceb725040c5a8a106e3723812](https://user-images.githubusercontent.com/66325928/199409608-93183685-2ee2-4c20-9b1d-f33343b2d139.gif)
+![tumblr_inline_nxeeqaPJK01sjhna2_250](https://user-images.githubusercontent.com/66325928/199410856-25fea227-e5b6-4b25-85e9-96cee349c016.gif)
+
 
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
 
