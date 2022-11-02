@@ -1,4 +1,7 @@
+
 <h1 align="center">Hi👋,I'm octavio!</h1>
+
+
 
 
 
@@ -40,9 +43,9 @@
   <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?i=godot"/></a>
 </p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=bear&show_icons=true&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=bear&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batvizz&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batvizz&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
