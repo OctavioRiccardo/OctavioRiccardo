@@ -41,7 +41,8 @@
   <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?i=godot"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=moltack&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=bear&show_icons=true&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Batvizz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
