@@ -26,20 +26,6 @@
 </a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="LinkedIn" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
@@ -47,9 +33,8 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
- 
- 
 </p>
+
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/></a>
@@ -62,7 +47,11 @@
   <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?i=godot"/></a>
 </p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=bear&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batvizz&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batvizz&theme=monokai)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batvizz&theme=monokai)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batvizz&theme=monokai)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batvizz&theme=monokai)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Batvizz&theme=monokai&utcOffset=8)
  
 
 
