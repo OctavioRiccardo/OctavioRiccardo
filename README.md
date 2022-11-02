@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋,I'm octavio!</h1>
+
 ![4ddd3d4ceb725040c5a8a106e3723812](https://user-images.githubusercontent.com/66325928/199409608-93183685-2ee2-4c20-9b1d-f33343b2d139.gif)
 
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
@@ -22,7 +23,7 @@
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
-![4ddd3d4ceb725040c5a8a106e3723812](https://user-images.githubusercontent.com/66325928/199409608-93183685-2ee2-4c20-9b1d-f33343b2d139.gif)
+
 
 
 
