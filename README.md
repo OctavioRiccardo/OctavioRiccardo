@@ -42,7 +42,9 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batvizz&theme=bear&show_icons=true&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Batvizz)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Batvizz)](https://github.com/Batvizz/Vinculaciones-Frontend)
+
+
 
 
 
