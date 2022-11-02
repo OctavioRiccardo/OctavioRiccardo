@@ -4,8 +4,6 @@
 
 
 
-
-
  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66325928/199412813-9a6b069a-4457-4400-9db8-40d18ec13232.gif" alt="animated"/>
@@ -15,12 +13,13 @@
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
 
 
-- 🔭 I'm Currently studying Web University Technique **at UNSL **
+- 🔭 I'm Currently studying Web University Technique **UNSL**
 - 🌱 I'm always learning and currently curious about **JavaScript,React JS,React Native,Python,Java**
-- **Contact**
-  <p align="start">
-    <a href="https://www.linkedin.com/in/octavio-riccardo/"><img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+- <a href="https://linkedin.com/in/othneildrew" rel="nofollow">
+    <img        src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://www.linkedin.com/in/octavio-riccardo/" style="max-width: 100%;">
+</a>
+
+
 
 
 <h3 align="center">Languages</h3>
