@@ -14,15 +14,15 @@
 - <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="30"> I'm Currently studying Web University Technique **UNSL**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm always learning and currently curious about **JavaScript,React JS,React Native,Python,Java**
 
-- </a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical src="https://www.linkedin.com/in/octavio-riccardo/" style="max-width:100%;"></a>
-</a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" data-canonical src="octariccardo@gmail.com" style="max-width:100%;"></a>
+- <a href="https://www.linkedin.com/in/octavio-riccardo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical src="https://www.linkedin.com/in/octavio-riccardo/" style="max-width:100%;"></a>
+<a href="mailto:octariccardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" data-canonical src="octariccardo@gmail.com" style="max-width:100%;"></a>
 
 <p align="center">
-  </a><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
-  </a><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" data-canonical src="https://steamcommunity.com/id/Batvizz/" style="max-width:100%;"></a>
-  </a><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
-  </a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" data-canonical src="https://www.npmjs.com/" style="max-width:100%;"></a>
-  </a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" data-canonical src="https://www.hackerrank.com/dashboard" style="max-width:100%;"></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN" data-canonical src="" style="max-width:100%;"></a>
+  <a href="https://steamcommunity.com/id/Batvizz/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" data-canonical src="https://steamcommunity.com/id/Batvizz/" style="max-width:100%;"></a>
+  <a href="https://soundcloud.com/upload"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="" data-canonical src="https://soundcloud.com/upload" style="max-width:100%;"></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" data-canonical src="https://www.npmjs.com/" style="max-width:100%;"></a>
+  <a href="https://www.hackerrank.com/dashboard"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" data-canonical src="https://www.hackerrank.com/dashboard" style="max-width:100%;"></a>
 </p>
 
 <h3 align="center">Languages</h3>
