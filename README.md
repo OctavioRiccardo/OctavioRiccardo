@@ -22,7 +22,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c"/></a>
+  <a href="https://devdocs.io/c/" target="_blank"><img src="https://skillicons.dev/icons?i=c"/></a>
   <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py"/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/></a>
