@@ -4,11 +4,10 @@
 
  
 <p align="center">
-
-![Gif](https://user-images.githubusercontent.com/66325928/217409535-88c108fd-7c41-460f-a7fc-9114c4c6c2b0.gif)
+ ![Gif align="center"](https://user-images.githubusercontent.com/66325928/217409535-88c108fd-7c41-460f-a7fc-9114c4c6c2b0.gif)
 </p>
 
-
+<p
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
 
 
