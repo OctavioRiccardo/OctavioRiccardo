@@ -2,14 +2,8 @@
 <h1 align="center">Hi,I'm octavio!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30"></h1>
 
 <p align="center">
- ![Gif](https://user-images.githubusercontent.com/66325928/217410119-8b8aaceb-9a48-4bfc-aaaf-602640cc7176.gif)</h1>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/66325928/217410119-8b8aaceb-9a48-4bfc-aaaf-602640cc7176.gif" alt="animated" />
 </p>
-
-
 
 <p
 <h3 align="center">University student,I like the world of programming, multimedia content, video games.</h3>
