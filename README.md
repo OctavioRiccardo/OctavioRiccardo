@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi,I'm octavio!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30"></h1>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif](https://user-images.githubusercontent.com/66325928/217409535-88c108fd-7c41-460f-a7fc-9114c4c6c2b0.gif)" height="30"></h1>
+<h1 align="center">
+ ![Gif](https://user-images.githubusercontent.com/66325928/217410014-46e74024-1ec5-411a-be08-e47c4032291a.gif)
+</h1>
  
 
 
