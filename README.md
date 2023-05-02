@@ -44,13 +44,7 @@
   <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
   <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/></a>
 </p>
- <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batvizz&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batvizz&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batvizz&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batvizz&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Batvizz&theme=monokai&utcOffset=8">
-</p>
+
  
 
 
