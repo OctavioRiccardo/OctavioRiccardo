@@ -50,7 +50,7 @@ Results-oriented software development profile focused on efficiency, scalability
 - **Backend Specialization:** Building robust solutions utilizing **Node.js** and **Spring Boot (Java)**.
 
 <details>
-  <summary>💼 Career Goals & Areas of Interest</summary>
+  <summary> Career Goals & Areas of Interest</summary>
   <br>
   
   - **Backend Development:** Interested in microservices architecture, RESTful API design, and efficient database management.
