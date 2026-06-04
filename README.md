@@ -40,7 +40,7 @@ Formatura orientada al desarrollo de software eficiente, escalable y con buenas 
 
 ## 🇬🇧 English
 
-# Octavio Riccardo
+
 ### Web Technology Student & Aspiring Software Developer
 
 Results-oriented software development profile focused on efficiency, scalability, and best practices. Currently pursuing a **Web University Degree** at **Universidad Nacional de San Luis (UNSL)**, deepening core software engineering principles across both Frontend and Backend ecosystems.
