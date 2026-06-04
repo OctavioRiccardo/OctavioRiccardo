@@ -15,13 +15,13 @@
 - 🚀 **Intereses actuales:** Enfocado en expandir mis habilidades en el frontend con **React** y profundizar en el backend explorando **Node.js**, **TypeScript** y **Spring Boot (Java)**.
 - 🌱 **Aprendizaje continuo:** Siempre buscando nuevos desafíos y tecnologías para dominar.
 
-### 🌐 Conectemos
+### Conectemos
 <p align="left">
   <a href="https://www.linkedin.com/in/octavio-riccardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:octariccardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
@@ -46,13 +46,13 @@
 - 🚀 **Current Interests:** Focused on expanding my frontend skills with **React** and diving deeper into the backend by exploring **Node.js**, **TypeScript**, and **Spring Boot (Java)**.
 - 🌱 **Continuous Learning:** Always looking for new challenges and technologies to master.
 
-### 🌐 Let's Connect
+### Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/octavio-riccardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:octariccardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-### 🛠️ Technologies and Tools
+### Technologies and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
