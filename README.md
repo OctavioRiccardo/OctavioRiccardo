@@ -99,8 +99,12 @@ Results-oriented software development profile focused on efficiency, scalability
 </table>
 
 ### Desempeño y Métricas / GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/TU_USUARIO_AQUÍ">
+    <img src="https://github-readme-stats-six-beige.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUÍ">
+    <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="150" />
+  </a>
 </p>
