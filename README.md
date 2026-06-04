@@ -101,10 +101,10 @@ Results-oriented software development profile focused on efficiency, scalability
 ### Desempeño y Métricas / GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_AQUÍ">
+  <a href="https://github.com/OctavioRiccardo">
     <img src="https://github-readme-stats-six-beige.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
   </a>
-  <a href="https://github.com/TU_USUARIO_AQUÍ">
+  <a href="https://github.com/OctavioRiccardo">
     <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="150" />
   </a>
 </p>
